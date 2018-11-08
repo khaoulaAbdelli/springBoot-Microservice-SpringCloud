@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 31 13:08:48 CET 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1540987728099
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.netty\:netty-codec\:jar\:4.1.29.Final from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
